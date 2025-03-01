@@ -11,7 +11,7 @@
 
 Answer:
 
-Sketches and illustrations help to better understand ideas therefore making the info more visuals transform raw data into meaningful insights.
+Sketches and illustrations help to better understand ideas therefore making the info more digestible visuals transform raw data into meaningful insights.
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 
