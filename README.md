@@ -8,7 +8,23 @@
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+
+Answer:
+
+Sketches and illustrations help to better understand ideas therefore making the info more visuals transform raw data into meaningful insights.
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
+Answer:
+
+- Diagrams: help show how a system works
+
+- screenshots
+
+- charts: help to better explain data
+
+
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 
 Answer:
