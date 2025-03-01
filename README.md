@@ -10,7 +10,22 @@
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+
+Answer:
+
+Headings break up sections with titles. When writing a document or a tech writing we have first to organize the work. We have to highlight the main points and the subpoints and we do this with headings and subheadings. Their aim is to show the reader what they
+gain by reading the rest of the article.
+
 ## 10. What are some best practices for creating effective headings and subheadings?
+
+To create effective headings:
+
+- Be clear and concise
+
+- use descriptive language: use specific and concrete words that a curately reflect the content of the section.
+- 
+
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 
 Answer:
