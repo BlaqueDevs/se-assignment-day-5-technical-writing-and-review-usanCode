@@ -12,4 +12,19 @@
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+
+Answer:
+
+The README file is a texhnical writing so it has to have a clear structure and its main parts are:
+
+- introduction: what is it about?
+
+- Body: Detailed steps of explanations
+
+- conclusion: it is the summary of the texh writing and may include next steps.
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+Answer: 
+
+It is by writing a good presentation of the product. That presentation has to be easy to understand for the audience and all its types. Visuals can be used for that purpose. The structure of the writing has to be organized.
