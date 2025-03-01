@@ -21,12 +21,14 @@ Answer:
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
 Answer:
-The way to gauge existing knowledge of the audience is to know who they are, the various types of the audience (experts, beginners, illiterate, cultured,..)
+
+The way to gauge the existing knowledge of the audience is to know who they are, the various types of the audience (experts, beginners, illiterate, cultured,..)
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
 Answer:
-It is true that technical writing can seem confusing to some people. Thus we can use visuals. They van help to explain complex ideas.
+
+It is true that technical writing can seem confusing to some people. Thus we can use visuals. They can help to explain complex ideas.
 
 
 -Diagrams
