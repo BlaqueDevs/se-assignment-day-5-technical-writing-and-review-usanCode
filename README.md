@@ -18,12 +18,15 @@ gain by reading the rest of the article.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
 
+Answer:
+
 To create effective headings:
 
 - Be clear and concise
 
 - use descriptive language: use specific and concrete words that a curately reflect the content of the section.
-- 
+
+- maintain a consistent hierarchy 
 
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
