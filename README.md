@@ -37,8 +37,17 @@ It is true that technical writing can seem confusing to some people. Thus we can
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 
+Answer:
+It is important to use plain language in the writing because itis easy to understand and it has to be short. It is one of the keys for conceiving a clear technical writing.
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+
+Answer:
+example of a very boring sentence:
+"press the switch to turn on the light"
+example of a simplified sentence
+"switch on the light"
+
 
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
