@@ -32,7 +32,9 @@ Answer:
 It is true that technical writing can seem confusing to some people. Thus we can use visuals. They can help to explain complex ideas.
 
 -Diagrams
+
 -screenshots
+
 -charts
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
